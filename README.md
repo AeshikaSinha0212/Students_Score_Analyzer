@@ -9,9 +9,22 @@ A terminal-based CSV analyzer built by **Aeshika** using Python and Pandas.
   - Sum, Average, Max, Min, Count
 - Option to view all columns summary
 - Runs interactively in loop
+# 📊 Student Marks Analyzer
 
-## 🧪 Sample CSV
-```
+---
+
+## 🛠️ Technologies Used
+
+| Tool     | Purpose                      |
+|----------|------------------------------|
+| Python   | Main programming language    |
+| Pandas   | Data loading and statistics  |
+
+---
+
+## 🗂️ CSV Format Example (`sample_data.csv`)
+
+```csv
 Name,Accountancy,Economics,IT,B.st
 Rachel,85,96,98,90
 Amanda,75,82,97,88
