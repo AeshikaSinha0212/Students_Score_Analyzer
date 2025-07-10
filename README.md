@@ -12,12 +12,12 @@ A terminal-based CSV analyzer built by **Aeshika** using Python and Pandas.
 
 ## 🧪 Sample CSV
 ```
-Name,Age,Score
-Alice,23,88
-Bob,30,75
-Charlie,28,92
-Daisy,25,85
-Ethan,26,79
+Name,Accountancy,Economics,IT,B.st
+Rachel,85,96,98,90
+Amanda,75,82,97,88
+Samantha,91,85,77,68
+Robin,89,72,94,65
+Henry,99,84,78,87
 ```
 
 ## ▶️ Run Instructions
